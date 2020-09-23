@@ -1,5 +1,6 @@
 # linux-system-info
-get the basic information about the linux
+get the basic information about the linux system
+
 usage:
-chmod +x sys-info.sh
+chmod +x sys-info.sh;
 ./sys-info.sh
